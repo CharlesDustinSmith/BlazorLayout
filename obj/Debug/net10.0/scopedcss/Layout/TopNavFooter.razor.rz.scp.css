@@ -1,16 +1,16 @@
-.footerStyle{
+.footerStyle[b-6v9uw04pdi]{
     background-color: var(--cf-theme-900);
 }
 
-.footerStyle a{
+.footerStyle a[b-6v9uw04pdi]{
     color: var(--cf-theme-200);
 }
 
-.footerStyle a:hover{
+.footerStyle a:hover[b-6v9uw04pdi]{
     color: var(--cf-theme-core);
 }
 
-.bi{
+.bi[b-6v9uw04pdi]{
     font-size: 1.5rem;
     padding-inline-start: .5rem;
 }

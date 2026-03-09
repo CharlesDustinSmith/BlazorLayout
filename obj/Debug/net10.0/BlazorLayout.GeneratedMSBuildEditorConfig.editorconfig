@@ -36,20 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Dev/web-dev/BlazorLayout/Layout/TopNavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/Dev/web-dev/BlazorLayout/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Dev/web-dev/BlazorLayout/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/Dev/web-dev/BlazorLayout/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Dev/web-dev/BlazorLayout/Pages/Themes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhlbWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Dev/web-dev/BlazorLayout/Pages/Weather.razor]
@@ -67,3 +63,15 @@ build_metadata.AdditionalFiles.CssScope = b-ptw96lfoj8
 [E:/Dev/web-dev/BlazorLayout/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-pvtom8aw5v
+
+[E:/Dev/web-dev/BlazorLayout/Layout/TopNavFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdkZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6v9uw04pdi
+
+[E:/Dev/web-dev/BlazorLayout/Layout/TopNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pyi2laq654
+
+[E:/Dev/web-dev/BlazorLayout/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rt9dd4eb3a
