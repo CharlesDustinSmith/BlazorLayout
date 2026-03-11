@@ -4,3 +4,19 @@
     background-position: center;
     background-size: cover;
 }
+
+.title {
+    font-family: var(--cf-title-font);
+    font-size: 3rem;
+    color: var(--cf-title-color);
+    line-height: 3rem;
+}
+
+/* .subTitle {
+    font-size: 1rem;
+    font-family: var(--cf-body-font);
+} */
+
+devicons {
+    
+}
